@@ -94,3 +94,7 @@ StatefulWidget состоит из двух частей:
 
 Если необходимо взаимодействие с пользователем, то используем StatefulWidget.
 
+### Жизненный цикл виджетов
+
+Рассмотрено в ветке [https://github.com/internetova/base_widgets/tree/жизненный-цикл](https://github.com/internetova/base_widgets/tree/жизненный-цикл)
+
